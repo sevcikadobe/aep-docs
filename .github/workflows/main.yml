@@ -1,4 +1,4 @@
-on: push
+on: issues
 name: Template Variables in Markdown
 jobs:
   markdown:
